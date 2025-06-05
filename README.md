@@ -1,10 +1,7 @@
 # Post Imputation Stats
-
-Grazie per aver fornito il testo in italiano. Di seguito trovi la **traduzione in inglese**, formulata in uno stile adatto per la documentazione tecnica di una repository GitHub (chiaro, conciso e coerente):
-
 ---
 
-## 🧬 Imputation Concordance Analysis (Steps 1–4)
+## 🧬 Imputation Concordance Analysis
 
 To evaluate imputation performance, you will need:
 
@@ -128,9 +125,6 @@ h/i    0/0      0/1      1/1      ./.
 ```
 
 These matrices summarize concordance/discordance between imputed and high-coverage genotypes **within specific frequency ranges**.
-
----
-Perfetto! Ecco la **traduzione in inglese** del testo che descrive **Step 5–7**, strutturata in stile tecnico coerente con la parte precedente:
 
 ---
 
