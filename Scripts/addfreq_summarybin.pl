@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# HOW2RUN: perl addfreq.pl comparison.txt freqfile
+# HOW2RUN: perl addfreq_summarybin.pl comparison.txt freqfile
 
 my $input = $ARGV[0]; # File comparison.txt (output from SnpSift)
 my $freq = $ARGV[1]; # Run PLINK to calculate the frequencies from each ref chromosome, then merge all freq files into one single file. That file is this second input here
