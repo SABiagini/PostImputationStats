@@ -194,6 +194,8 @@ This will produce a single `SummaryStats` file aggregating statistics across all
 
 ### 🔹 Step 7 – Calculate R² Statistics Per Frequency Bin
 
+For this step, [BCFtools](https://github.com/samtools/bcftools?tab=readme-ov-file) is needed.
+
 Before running this step, you must prepare a set of **variant list files**, one for each frequency bin. Name them as follows:
 
 ```
